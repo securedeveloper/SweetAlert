@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sweet Alert Dialog</string>
+    <string name="dialog_default_title">Here is a message!</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="LOADING">Loading...</string>
+</resources>
