@@ -35,7 +35,7 @@ and in module build gradle file,
 
 ```
 dependencies {
-    implementation 'com.github.securedeveloper:sweet-alert:0.2.0'
+    implementation 'com.github.securedeveloper:SweetAlert:0.1.0'
 }
 ```
 
